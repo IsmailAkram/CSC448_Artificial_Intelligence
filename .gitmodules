@@ -1,0 +1,6 @@
+[submodule "Assignment_3"]
+	path = Assignment_3
+	url = https://github.com/IsmailAkram/Assignment_3.git
+[submodule "CSC217_Final_Project_Ismail_Akram_demo"]
+	path = CSC217_Final_Project_Ismail_Akram_demo
+	url = https://github.com/IsmailAkram/CSC217_Final_Project_Ismail_Akram_demo
